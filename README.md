@@ -17,7 +17,7 @@
       <td><li>aclnn调用</li></td>
       <td><li><a href="./examples/test_aclnn_abs.cpp">test_aclnn_abs</a></li></li></td>
       <td><li>通过<a href="./docs/aclnnAbs.md">aclnnAbs</a>接口方式调用Abs算子。</li>
-                          </ul>
+                          <ul>
                             <li>测试案例</li>
                         </ul></td>
  </tr>
