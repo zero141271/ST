@@ -1,4 +1,4 @@
-# 这是一个学习案列
+# 这是一个学习案
 <table style="undefined;table-layout: fixed; width: 980px"><colgroup>
   <col style="width: 100px">
   <col style="width: 150px">
@@ -56,7 +56,7 @@
 行
 
 
-这&nbsp;里&nbsp;有&nbsp;不&nbsp;间&nbsp;断&nbsp;空&nbsp;格
+这&nbsp;里&nbsp;有&nbsp;不&nbsp;间&nbsp;断&nbsp;空&nbsp;
 这​里​有​零​宽​空​格​但​看​不​见
 Unix风格行\n
 Windows风格行\r\n
