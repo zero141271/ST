@@ -19,7 +19,7 @@
       <td><li>通过<a href="./docs/aclnnAbs.md">aclnnAbs</a>接口方式调用Abs算子。</li>
                           <ul>
                             测
-                        </ul></td>
+                        </ul>
  </tr>
     <tr>
       <td>图模式调用</td>
